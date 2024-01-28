@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_activity_camera">camera</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
